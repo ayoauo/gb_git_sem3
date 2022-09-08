@@ -77,9 +77,7 @@
 
 Для создания новой ветки, используется команда:
 
-    git branch <branch_name>
-
-  test.test    
+    git branch <branch_name>  
 
 #### Просмотр всех веток
 
