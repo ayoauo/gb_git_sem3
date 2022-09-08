@@ -83,7 +83,7 @@
 
     git branch <branch_name>
 
-test    
+  test.test    
 
 #### Команда слияния 
 
