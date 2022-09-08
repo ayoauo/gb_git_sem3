@@ -71,4 +71,4 @@
 
     git branch <branch_name>
 
-    
+### Слияние веток    
